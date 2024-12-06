@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Graphic Design Intern",
+    "organisation": "SageVR",
+    "startDate": "May 2023",
+    "endDate": "August 2024",
+    "experiences": ["Designed the official company logo with Adobe Illustrator, developed design presentations for company pitches, & coded the landing page using HTML, CSS, JavaScript.",
+    "Used zBrush and Blender to create 3D character models to simulate an older version of the user.",
+    "Collaborated with entrepreneurs in accelerator sessions from Emory Hatchery Incubator and Georgia Game Developer Association’s Game Tech Hub."]
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "meTing",
+    "startDate": "January",
+    "endDate": "March 2024",
+    "experiences": ["Designed group dating app using Figma that prioritizes user safety by encouraging going on dates with friends for a natural, safer experience.",
+    "Arranged bi-weekly design team meetings with backend developers to communicate prototype improvements.","Improved user interface by experimenting with LowFi, HighFi mockups to make group matching a better experience." ],
+    "imageSrc": "history/microsoft.png"
+  }
+]

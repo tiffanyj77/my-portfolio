@@ -1,0 +1,16 @@
+[
+  {
+    "title": "SmartyPants App iOS Developer",
+    "imageSrc": "projects/iosproject.png",
+    "description": "Developing a full-stack iOS application to effectively coordinate college study groups based on study preferences, needs, and locations.",
+    "skills": ["Swift", "SwiftUI", "Firebase"],
+    "source": "https://www.figma.com/proto/bS8W2DoQ2GcdhOOdRWtQt6/Wireframes-High-Fi?node-id=3068-5780&t=444wpNfYsLuAUImp-1&scaling=contain"
+  },
+  {
+    "title": "AI Wardrobe Generator App",
+    "imageSrc": "projects/aiweather3.png",
+    "description": "Designed a weather-based feature for an AI wardrobe generator app, enabling outfit recommendations based on real-time weather forecasts.",
+    "skills": ["Adobe Illustrator", "Figma"],
+    "source": "https://docs.google.com/presentation/d/17da0Mp_LlyDc2NQ1PSkvSsqE_-4t1C0KrTQaTm20q-g/edit?usp=sharing"
+  }
+]
